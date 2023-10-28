@@ -1,0 +1,28 @@
+
+Tipe data
+Missing value
+Duplicate data
+Inaccurate value
+
+# customer_df
+
+Terdapat 18 missing values pada kolom gender.
+
+Terdapat 6 data yang duplikat.
+
+Terdapat inaccurate value pada kolom age.
+
+
+# orders_df
+
+Terdapat kesalahan tipe data untuk kolom order_date & delivery_date.
+
+
+# product_df
+
+Terdapat 6 data yang duplikat.
+
+
+# sales_df
+
+Terdapat 19 missing value pada kolom total_price.
